@@ -34,5 +34,15 @@ namespace SuperAdventure
             Location test1 = new Location(1, "Your House", "This is your house");
             Location test2 = new Location(1, "Your House", "This is your house", null, null, null);
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
